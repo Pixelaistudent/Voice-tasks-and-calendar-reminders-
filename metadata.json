@@ -1,0 +1,6 @@
+{
+  "name": "AI Assistant",
+  "description": "An AI assistant that checks tasks and calendar, provides motivation, and integrates with messaging apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
